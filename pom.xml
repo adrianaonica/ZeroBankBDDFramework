@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zerobank</groupId>
-    <artifactId>ZeroBankBDDFramework</artifactId>
+    <artifactId>zerobank-automation</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
